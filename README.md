@@ -33,8 +33,10 @@ This app is a simple shopping cart application built with React Native. It allow
 ## Screenshots
 
 ### HomeScreen
-
-![HomeScreen](<Screenshots/Screen 2.png>)
+![alt text](Screenshots/Screen2.png)
+![alt text](Screenshots/Screen3.png)
+![alt text](Screenshots/Screen4.png)
+![alt text](Screenshots/Screen5.png)
 
 
 ### CartScreen
